@@ -1,6 +1,7 @@
-# MLatUSC-2020
+# ML at University of Santiago de Compostela, May 2020
 
-- [Open notebooks at colab](https://colab.research.google.com/github/HSE-LAMBDA/MLatUSC-2020)
+- [Open notebooks at colab](https://colab.research.google.com/github/HSE-LAMBDA/MLatUSC-2020);
+- Full event agenda is [at indico event page](https://indico.cern.ch/event/882244/page/20338-connection-details).
 
 # Contents
 
